@@ -28,8 +28,8 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/Dxxoo/whatsapp-bot.git
-> cd whatsapp-bot
+> git clone https://github.com/WasappBot/whatsapp-bot-1
+> cd whatsapp-bot-1
 ```
 
 Install the dependencies:
